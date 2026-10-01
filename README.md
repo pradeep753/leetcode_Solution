@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pradeep753/leetcode_Solution/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pradeep753/leetcode_Solution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
