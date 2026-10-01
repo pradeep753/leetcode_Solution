@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
 ## Dynamic Programming
 |  |
 | ------- |
