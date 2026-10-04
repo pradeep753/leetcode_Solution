@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/pradeep753/leetcode_Solution/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
