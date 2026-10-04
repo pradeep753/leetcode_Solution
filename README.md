@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/pradeep753/leetcode_Solution/tree/master/0563-binary-tree-tilt) |
+| [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
 | [0968-binary-tree-cameras](https://github.com/pradeep753/leetcode_Solution/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/pradeep753/leetcode_Solution/tree/master/0563-binary-tree-tilt) |
+| [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
 | [0968-binary-tree-cameras](https://github.com/pradeep753/leetcode_Solution/tree/master/0968-binary-tree-cameras) |
 ## Dynamic Programming
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/pradeep753/leetcode_Solution/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -66,4 +69,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/pradeep753/leetcode_Solution/tree/master/0693-binary-number-with-alternating-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
