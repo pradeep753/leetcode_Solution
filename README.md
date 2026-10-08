@@ -59,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pradeep753/leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/pradeep753/leetcode_Solution/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/pradeep753/leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/pradeep753/leetcode_Solution/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/pradeep753/leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
