@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pradeep753/leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pradeep753/leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/pradeep753/leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pradeep753/leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pradeep753/leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0696-count-binary-substrings](https://github.com/pradeep753/leetcode_Solution/tree/master/0696-count-binary-substrings) |
 ## Hash Table
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pradeep753/leetcode_Solution/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pradeep753/leetcode_Solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
