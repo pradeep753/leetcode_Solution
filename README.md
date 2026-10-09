@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pradeep753/leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0696-count-binary-substrings](https://github.com/pradeep753/leetcode_Solution/tree/master/0696-count-binary-substrings) |
 ## Backtracking
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pradeep753/leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/pradeep753/leetcode_Solution/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/pradeep753/leetcode_Solution/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
