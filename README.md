@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pradeep753/leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/pradeep753/leetcode_Solution/tree/master/0968-binary-tree-cameras) |
 ## DP on Trees
@@ -72,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pradeep753/leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pradeep753/leetcode_Solution/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/pradeep753/leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0696-count-binary-substrings](https://github.com/pradeep753/leetcode_Solution/tree/master/0696-count-binary-substrings) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pradeep753/leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pradeep753/leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pradeep753/leetcode_Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
