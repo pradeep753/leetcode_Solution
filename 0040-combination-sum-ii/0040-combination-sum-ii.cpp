@@ -7,10 +7,8 @@ public:
     }
     for(int i = res; i < n; i++){
         if(i > res && nums[i] == nums[i - 1]) continue;
-
         if(nums[i] > target)
         break;
-
         temp.push_back(nums[i]);
         perform(i + 1, target - nums[i], nums, temp, ans, n);
         temp.pop_back();
