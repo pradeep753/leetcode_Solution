@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
+| [0951-flip-equivalent-binary-trees](https://github.com/pradeep753/leetcode_Solution/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/pradeep753/leetcode_Solution/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/pradeep753/leetcode_Solution/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
+| [0951-flip-equivalent-binary-trees](https://github.com/pradeep753/leetcode_Solution/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/pradeep753/leetcode_Solution/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
+| [0951-flip-equivalent-binary-trees](https://github.com/pradeep753/leetcode_Solution/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/pradeep753/leetcode_Solution/tree/master/0968-binary-tree-cameras) |
 ## Dynamic Programming
 |  |
