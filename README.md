@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/pradeep753/leetcode_Solution/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
 | [0968-binary-tree-cameras](https://github.com/pradeep753/leetcode_Solution/tree/master/0968-binary-tree-cameras) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/pradeep753/leetcode_Solution/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
 | [0968-binary-tree-cameras](https://github.com/pradeep753/leetcode_Solution/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/pradeep753/leetcode_Solution/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
 | [0968-binary-tree-cameras](https://github.com/pradeep753/leetcode_Solution/tree/master/0968-binary-tree-cameras) |
@@ -170,5 +173,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/pradeep753/leetcode_Solution/tree/master/0706-design-hashmap) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
