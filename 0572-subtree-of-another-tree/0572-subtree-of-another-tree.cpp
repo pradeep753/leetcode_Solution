@@ -1,12 +1,19 @@
 class Solution {
 public:
-    string preOrder(TreeNode* root){
-        if(!root) return "#";
-        return "^" + to_string(root->val) + "," + preOrder(root->left) + preOrder(root->right);
+    bool isSame(TreeNode* a, TreeNode* b) {
+        if (!a || !b)
+            return a == b;
+        return a->val == b->val &&
+               isSame(a->left, b->left) &&
+               isSame(a->right, b->right);
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        string bigTree = preOrder(root);
-        string smallTree = preOrder(subRoot);
-        return bigTree.find(smallTree) != string::npos;
+        if (!subRoot) return true;
+        if (!root) return false;
+
+        if (isSame(root, subRoot))
+            return true;
+        return isSubtree(root->left, subRoot) ||
+               isSubtree(root->right, subRoot);
     }
 };
