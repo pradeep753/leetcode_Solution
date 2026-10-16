@@ -1,11 +1,6 @@
-class Solution {
-public:
-    TreeNode* sortedArrayToBST(vector<int>& nums) {
-        return build(nums, 0, nums.size());
-    }
 
-private:
-    TreeNode* build(vector<int>& nums, int l, int r) {
+class Solution {
+    static TreeNode* build(vector<int>& nums, int l, int r) {
         if (l >= r) return nullptr;
 
         int m = l + (r - l) / 2;
@@ -16,4 +11,10 @@ private:
 
         return root;
     }
+
+public:
+    TreeNode* sortedArrayToBST(vector<int>& nums) {
+        return build(nums, 0, (int)nums.size());
+    }
 };
+
