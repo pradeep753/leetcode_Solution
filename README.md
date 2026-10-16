@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0110-balanced-binary-tree) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0110-balanced-binary-tree) |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
