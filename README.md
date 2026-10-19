@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pradeep753/leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pradeep753/leetcode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pradeep753/leetcode_Solution/tree/master/0022-generate-parentheses) |
+| [0166-fraction-to-recurring-decimal](https://github.com/pradeep753/leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0696-count-binary-substrings](https://github.com/pradeep753/leetcode_Solution/tree/master/0696-count-binary-substrings) |
 ## Backtracking
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pradeep753/leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0166-fraction-to-recurring-decimal](https://github.com/pradeep753/leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0706-design-hashmap](https://github.com/pradeep753/leetcode_Solution/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/pradeep753/leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/pradeep753/leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 ## Recursion
 |  |
 | ------- |
