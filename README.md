@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/pradeep753/leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/pradeep753/leetcode_Solution/tree/master/0046-permutations) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pradeep753/leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -131,10 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pradeep753/leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pradeep753/leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 ## Cartesian Tree
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pradeep753/leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
