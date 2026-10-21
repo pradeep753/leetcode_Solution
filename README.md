@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep753/leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/pradeep753/leetcode_Solution/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/pradeep753/leetcode_Solution/tree/master/0704-binary-search) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pradeep753/leetcode_Solution/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0137-single-number-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pradeep753/leetcode_Solution/tree/master/0693-binary-number-with-alternating-bits) |
 ## Divide and Conquer
 |  |
