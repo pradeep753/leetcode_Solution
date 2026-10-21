@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep753/leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/pradeep753/leetcode_Solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/pradeep753/leetcode_Solution/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/pradeep753/leetcode_Solution/tree/master/0706-design-hashmap) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 ## Stack
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pradeep753/leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0169-majority-element) |
 | [0706-design-hashmap](https://github.com/pradeep753/leetcode_Solution/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
@@ -238,4 +241,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/pradeep753/leetcode_Solution/tree/master/1791-find-center-of-star-graph) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
