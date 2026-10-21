@@ -234,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pradeep753/leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/pradeep753/leetcode_Solution/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
