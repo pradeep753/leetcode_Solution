@@ -1,28 +1,26 @@
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
-        int r1 = 0, r2 = n-1;
-        int c1 = 0, c2 = n-1;
-        int val = 0;
-        vector<vector<int>> v(n, vector<int> (n));
-        while(r1 <= r2 && c1 <= c2)
-        {
-            for(int i = c1; i <= c2; ++i)
-                v[r1][i] = ++val;
-            for(int i = r1+1; i <= r2; ++i)
-                v[i][c2] = ++val;
-            if(r1 < r2 && c1 < c2)
-            {
-                for(int i = c2-1; i>c1; --i)
-                    v[r2][i] = ++val;
-					for(int i = r2; i>r1; --i) 
-                    v[i][c1] = ++val;
+        vector<vector<int>> matrix(n, vector<int>(n, 0));
+        const int directions[5] = {0, 1, 0, -1, 0};
+      
+        int currentRow = 0;
+        int currentCol = 0;
+        int directionIndex = 0;  
+
+        for (int value = 1; value <= n * n; ++value) {    
+            matrix[currentRow][currentCol] = value;
+          
+            int nextRow = currentRow + directions[directionIndex];
+            int nextCol = currentCol + directions[directionIndex + 1];
+          
+            if (nextRow < 0 || nextRow >= n || nextCol < 0 || nextCol >= n || 
+                matrix[nextRow][nextCol] != 0) {
+                directionIndex = (directionIndex + 1) % 4;
             }
-            ++r1;
-            --r2;
-            ++c1;
-            --c2;
+            currentRow += directions[directionIndex];
+            currentCol += directions[directionIndex + 1];
         }
-        return v;
+        return matrix;
     }
 };
