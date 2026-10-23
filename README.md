@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pradeep753/leetcode_Solution/tree/master/0046-permutations) |
+| [0113-path-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
