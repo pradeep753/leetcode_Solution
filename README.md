@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/pradeep753/leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0696-count-binary-substrings](https://github.com/pradeep753/leetcode_Solution/tree/master/0696-count-binary-substrings) |
+| [2409-count-days-spent-together](https://github.com/pradeep753/leetcode_Solution/tree/master/2409-count-days-spent-together) |
 ## Backtracking
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/pradeep753/leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pradeep753/leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
+| [2409-count-days-spent-together](https://github.com/pradeep753/leetcode_Solution/tree/master/2409-count-days-spent-together) |
 ## Recursion
 |  |
 | ------- |
