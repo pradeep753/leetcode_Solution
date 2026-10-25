@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/pradeep753/leetcode_Solution/tree/master/0814-binary-tree-pruning) |
 | [0951-flip-equivalent-binary-trees](https://github.com/pradeep753/leetcode_Solution/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/pradeep753/leetcode_Solution/tree/master/0968-binary-tree-cameras) |
+| [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pradeep753/leetcode_Solution/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pradeep753/leetcode_Solution/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pradeep753/leetcode_Solution/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/pradeep753/leetcode_Solution/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/pradeep753/leetcode_Solution/tree/master/0875-koko-eating-bananas) |
+| [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -274,8 +277,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
