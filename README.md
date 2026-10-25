@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pradeep753/leetcode_Solution/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep753/leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pradeep753/leetcode_Solution/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/pradeep753/leetcode_Solution/tree/master/0077-combinations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Range Minimum/Maximum Query
