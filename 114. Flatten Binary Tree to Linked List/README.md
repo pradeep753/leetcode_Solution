@@ -95,30 +95,30 @@ Instead of using recursion or stack space, we can flatten the tree **in-place** 
 
 ### Java Implementation
 
-```java
+```CPP
 class Solution {
-    public void flatten(TreeNode root) {
-        TreeNode curr = root;
-        while (curr != null) {
-            if (curr.left != null) {
-                // Find the rightmost node of the left subtree
-                TreeNode prev = curr.left;
-                while (prev.right != null) {
-                    prev = prev.right;
-                }
-                
-                // Connect the rightmost node to current's right child
-                prev.right = curr.right;
-                
-                // Move left subtree to the right
-                curr.right = curr.left;
-                curr.left = null;
-            }
-            // Move to the next node
-            curr = curr.right;
-        }
+    TreeNode* temp = nullptr;
+public:
+    void flatten(TreeNode* root) {
+        worker(root);
     }
-}
+    void worker(TreeNode* root){
+        if(root == nullptr)
+        return;
+
+        TreeNode* left = root->left;
+        TreeNode* right = root->right;
+
+        if(temp != nullptr){
+        temp->right = root;
+        }
+        root->left = nullptr;
+        temp = root;
+
+        worker(left);
+        worker(right);
+    }
+};
 ```
 
 ## 📊 Complexity Analysis
