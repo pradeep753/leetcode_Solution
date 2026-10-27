@@ -93,9 +93,9 @@ Instead of using recursion or stack space, we can flatten the tree **in-place** 
 4. Set the left child to `null` (`root.left = null`).
 5. Move to the next right node (`root = root.right`).
 
-### Java Implementation
+### CPP Implementation
 
-```CPP
+```
 class Solution {
     TreeNode* temp = nullptr;
 public:
