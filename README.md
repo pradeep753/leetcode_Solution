@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/pradeep753/leetcode_Solution/tree/master/0696-count-binary-substrings) |
 | [2409-count-days-spent-together](https://github.com/pradeep753/leetcode_Solution/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pradeep753/leetcode_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pradeep753/leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pradeep753/leetcode_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/pradeep753/leetcode_Solution/tree/master/1791-find-center-of-star-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pradeep753/leetcode_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pradeep753/leetcode_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
