@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/pradeep753/leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/pradeep753/leetcode_Solution/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/pradeep753/leetcode_Solution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pradeep753/leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/pradeep753/leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/pradeep753/leetcode_Solution/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/pradeep753/leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pradeep753/leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pradeep753/leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pradeep753/leetcode_Solution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pradeep753/leetcode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
