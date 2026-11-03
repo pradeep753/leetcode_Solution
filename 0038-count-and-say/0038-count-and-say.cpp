@@ -1,25 +1,21 @@
 class Solution {
 public:
     string countAndSay(int n) {
-     string ans = "1" ;
-     for(int i = 1; i < n; ++i){
-        ans = describe(ans); 
-     }  
-     return ans;
-    }
-private:
-    string describe(const string& s){
-        string res= "";
-        int count = 1;
-        for(int i = 1; i < s.length(); ++i){
-            if(s[i] == s[i - 1]){
-                count++;
-            }else{
-                res += to_string(count) + s[i - 1];
-                count = 1;
+        string ans = "1";
+        for (int i = 1; i < n; i++) {
+            string helper = "";
+            int count = 1;
+            for (int j = 1; j < ans.size(); j++) {
+                if (ans[j] == ans[j - 1]) {
+                    count++;
+                } else {
+                    helper += to_string(count) + ans[j - 1];
+                    count = 1;
+                }
             }
+            helper += to_string(count) + ans.back();
+            ans = helper;
         }
-        res += to_string(count) + s.back();
-        return res;
+        return ans;
     }
 };
