@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/pradeep753/leetcode_Solution/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/pradeep753/leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pradeep753/leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pradeep753/leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pradeep753/leetcode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/pradeep753/leetcode_Solution/tree/master/3665-twisted-mirror-path-count) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/pradeep753/leetcode_Solution/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pradeep753/leetcode_Solution/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pradeep753/leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pradeep753/leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0027-remove-element) |
 | [0696-count-binary-substrings](https://github.com/pradeep753/leetcode_Solution/tree/master/0696-count-binary-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pradeep753/leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pradeep753/leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pradeep753/leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
