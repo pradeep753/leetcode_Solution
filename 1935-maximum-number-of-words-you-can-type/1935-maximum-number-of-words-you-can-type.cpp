@@ -1,26 +1,23 @@
 class Solution {
 public:
-    int canBeTypedWords(string text, string broken) {
-        unordered_set<char> brokenKeys;
-        int count = 0;
-        for(auto& c: broken){
-        brokenKeys.insert(c);
-    }
-    stringstream ss(text);
-    string word;
-    vector<string> words;
-
-    while(ss >> word){
-        words.push_back(word);
-    }
-    for(auto w : words){
-        for(char c : w){
-            if(brokenKeys.find(c) != brokenKeys.end()){
+    int canBeTypedWords(string text, string brokenLetters) {
+        int count = 0, totalvalue = 0;
+        vector<int>br(26,0);
+        for(char ch : brokenLetters){
+            br[ch - 'a'] = 1;
+        }
+        bool space = false;
+        for(char ch : text){
+            if(ch == ' '){
+                space = false;
+                totalvalue++;
+            }
+            else if(br[ch - 'a'] == 1 && space == false){
                 count++;
-                break;
-                }
+                space = true;
             }
         }
-        return words.size() - count;
+        totalvalue++;
+        return totalvalue - count;
     }
 };
