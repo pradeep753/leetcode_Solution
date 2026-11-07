@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pradeep753/leetcode_Solution/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/pradeep753/leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/pradeep753/leetcode_Solution/tree/master/0097-interleaving-string) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/pradeep753/leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pradeep753/leetcode_Solution/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/pradeep753/leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pradeep753/leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pradeep753/leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/pradeep753/leetcode_Solution/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pradeep753/leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
