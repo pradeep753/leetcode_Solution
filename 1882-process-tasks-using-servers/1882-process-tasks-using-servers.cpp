@@ -5,7 +5,6 @@ class Solution {
         auto operator <=> (const Server&) const = default;
     };
     using MinHeap = priority_queue<Server, vector<Server>, greater<>>;
-
 public:
     vector<int> assignTasks(vector<int>& servers, vector<int>& tasks) {
         vector<Server> all;
