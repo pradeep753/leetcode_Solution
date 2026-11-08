@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pradeep753/leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pradeep753/leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pradeep753/leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pradeep753/leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pradeep753/leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/pradeep753/leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/pradeep753/leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pradeep753/leetcode_Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pradeep753/leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0706-design-hashmap](https://github.com/pradeep753/leetcode_Solution/tree/master/0706-design-hashmap) |
 ## Math
 |  |
