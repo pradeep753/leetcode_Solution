@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/pradeep753/leetcode_Solution/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/pradeep753/leetcode_Solution/tree/master/0968-binary-tree-cameras) |
 | [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/pradeep753/leetcode_Solution/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pradeep753/leetcode_Solution/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pradeep753/leetcode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pradeep753/leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/pradeep753/leetcode_Solution/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pradeep753/leetcode_Solution/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pradeep753/leetcode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/pradeep753/leetcode_Solution/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/pradeep753/leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/pradeep753/leetcode_Solution/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pradeep753/leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/pradeep753/leetcode_Solution/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/pradeep753/leetcode_Solution/tree/master/2747-count-zero-request-servers) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/pradeep753/leetcode_Solution/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/pradeep753/leetcode_Solution/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pradeep753/leetcode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/pradeep753/leetcode_Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pradeep753/leetcode_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/pradeep753/leetcode_Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/pradeep753/leetcode_Solution/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pradeep753/leetcode_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
