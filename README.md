@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/pradeep753/leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/pradeep753/leetcode_Solution/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/pradeep753/leetcode_Solution/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/pradeep753/leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep753/leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pradeep753/leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/pradeep753/leetcode_Solution/tree/master/0038-count-and-say) |
 | [0097-interleaving-string](https://github.com/pradeep753/leetcode_Solution/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/pradeep753/leetcode_Solution/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/pradeep753/leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pradeep753/leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/pradeep753/leetcode_Solution/tree/master/0257-binary-tree-paths) |
