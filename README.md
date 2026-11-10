@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pradeep753/leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pradeep753/leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pradeep753/leetcode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0696-count-binary-substrings](https://github.com/pradeep753/leetcode_Solution/tree/master/0696-count-binary-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pradeep753/leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pradeep753/leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pradeep753/leetcode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pradeep753/leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0169-majority-element) |
 | [0706-design-hashmap](https://github.com/pradeep753/leetcode_Solution/tree/master/0706-design-hashmap) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pradeep753/leetcode_Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pradeep753/leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pradeep753/leetcode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0706-design-hashmap](https://github.com/pradeep753/leetcode_Solution/tree/master/0706-design-hashmap) |
 ## Math
 |  |
