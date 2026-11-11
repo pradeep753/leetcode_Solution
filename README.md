@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/pradeep753/leetcode_Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pradeep753/leetcode_Solution/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/pradeep753/leetcode_Solution/tree/master/0191-number-of-1-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pradeep753/leetcode_Solution/tree/master/0693-binary-number-with-alternating-bits) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pradeep753/leetcode_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pradeep753/leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/pradeep753/leetcode_Solution/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/pradeep753/leetcode_Solution/tree/master/0191-number-of-1-bits) |
 | [0654-maximum-binary-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pradeep753/leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
